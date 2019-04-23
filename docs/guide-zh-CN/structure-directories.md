@@ -15,7 +15,7 @@
 - `composer.json` - Composer配置文件 [Configuring Composer](start-composer.md).
 - `init` - 初始化脚本描述文件 [Configuration and environments](structure-environments.md).
 - `init.bat` - Windows下的初始化脚本描述文件.
-- `LICENSE.md` - 许可信息。 把你的项目许可证放到这里。 特别是开源醒目。
+- `LICENSE.md` - 许可信息。 把你的项目许可证放到这里。 特别是开源项目。
 - `README.md` - 安装模板的基本信息。 请考虑将其替换为有关您的项目及其安装的信息。
 - `requirements.php` - 安装使用 Yii 需求检查器。
 - `yii` - 控制台应用程序引导。
